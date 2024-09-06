@@ -1,0 +1,45 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AL115v20.PrjPcb|ReportField=ProjectFullPath~E:\pcbs\ALARMS\AL115v2.0\AL115v20.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [AL115v20_pcb.PcbDoc]|ReportField=TotalQuantity~126|ReportField=ReportTime~11:48:25|ReportField=ReportDate~09-05-2018|ReportField=ReportDateTime~09-05-2018 11:48:25|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~AL115v20_pcb.PcbDoc|ReportField=DataSourceFullPath~E:\pcbs\ALARMS\AL115v2.0\AL115v20_pcb.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1uF 1206|Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Polarized Capacitor (Radial), Capacitor|C1, C2, C3, C4, C8|C1206|5
+2|.1uF 1206|Capacitor|C5, C6, C7, C10|C1206|4
+3|2.2nF/2kV|Capacitor|C9|CAP DISC .2|1
+4|470uF/25V|Polarized Capacitor (Radial)|C11|Cap_.2|1
+5|100uF/25V|Polarized Capacitor (Radial)|C12, C13|Cap_.6.3x11x2.5|2
+6|22uF/100V|Polarized Capacitor (Radial)|C14|Cap_.2|1
+7|10uF/63V|Polarized Capacitor (Radial)|C15|Cap_.1|1
+8|47nF 1206|Capacitor|C16|C1206|1
+9|LED W/B 5MM|Typical RED GaAs LED|D1|LED5mmBLUE|1
+10|LED W/R 5MM|Typical RED GaAs LED|D2|LED5mmRED|1
+11|LED W/Y 5MM|Typical RED GaAs LED|D3|LED5mmYELLOW|1
+12|UF4007|Default Diode|D4|DIODE1A|1
+13|P6KE180A|Default Diode|D5|DIODE1A|1
+14|1N4148 SMD|Default Diode|D6, D9, D11, D14|4148SMDW|4
+15|1N4007|Default Diode|D7|DIODE1A|1
+16|Zenor 11V .5W|Zener Diode|D8|DZENOR .25W - duplicate|1
+17|LED R/R 5MM|Typical RED GaAs LED|D10, D12, D13|LEDSMALL|3
+18|Fiducial - Round|Fiducial - Round 1.5mm Top-Bottom|FD1, FD2, FD3, FD4|FIDUCIAL 2mm|4
+19|Header 4|Header, 4-Pin|H1|CONNDEBUG|1
+20|Relay|SPDT Relay|K1, K2, K3|RELAY|3
+21|Inductor 10uH Drum Core|Inductor|L1|INDUCTOR 5x8|1
+22|ICSP 6PIN CON|Header, 6-Pin|P1|CON_ICSP|1
+23|XY7501 2PIN|Header, 2-Pin|P2, P6|XY7501_7.62_2PIN|2
+24|XY128 3PIN|Header, 3-Pin|P3, P4, P5|XY128_5.08_3PIN|3
+25|XY7501 2PIN x2|Header, 4-Pin|P7|XY7501_7.62_4PIN|1
+26|MMBT3904|NPN General-purpose Transistor|Q1, Q2, Q3|SOT23_M|3
+27|4.7K 1206|Semiconductor Resistor|R1, R10, R12, R21, R23, R32, R34, R43|R1206|8
+28|1M 1206|Semiconductor Resistor|R2, R11, R13, R22, R24, R33, R35, R44, R52, R56, R59, R61|R1206|12
+29|MFR 1M .5W|Semiconductor Resistor|R3, R4, R7, R8, R14, R15, R18, R19, R25, R26, R29, R30, R36, R37, R40, R41, R55, R58|AXIAL-0.5|18
+30|220K 1206|Semiconductor Resistor|R5, R9, R16, R20, R27, R31, R38, R42|R1206|8
+31|470K 1206|Semiconductor Resistor|R6, R17, R28, R39, R57|R1206|5
+32|1K 1206|Semiconductor Resistor, Semiconductor Resistor, Semiconductor Resistor, Semiconductor Resistor, Semiconductor Resistor, Resistor|R45, R46, R50, R51, R53, R64|R1206|6
+33|10K 1206|Semiconductor Resistor|R47, R48, R49, R68|R1206|4
+34|47K 1206|Semiconductor Resistor|R54, R60|R1206|2
+35|10E 1206|Semiconductor Resistor|R62|R1206|1
+36|100E 1206|Resistor|R63|R1206|1
+37|330E 1206|Semiconductor Resistor|R65, R66, R67|R1206|3
+38|PRESET 5K|Tapped Resistor|R69, R70|Bourns_3306F|2
+39|EE20 10PIN HORIZONTAL|Three-winding Transformer (Switching|T1|EE20_HOR_10PIN|1
+40|LM324D|Quadruple Operational Amplifier|U1, U3|SOIC14_M|2
+41|PIC16F886-I/SP|Flash-Based, 8-Bit CMOS Microcontroller with nanoWatt Technology, 8K (x14-Bit words) Program Memory, 624 Bytes Data Memory, 24 I/O pins, 28-Pin SPDIP, Standard VDD Range, Industrial Temperature|U2|SOIC-SO28_M|1
+42|µA78M05CKTPR|Positive-Voltage Regulator|U4|TO252AA|1
+43|VIPER22||U5|DIP-8_S|1
+44|PC817 COSMO|4-Pin Phototransistor Optocoupler|U6|DIP-4_S|1
